@@ -1,5 +1,3 @@
-# 👨‍💻 Developer README
-
 Hi, I'm **Subir Baidya** 👋  
 A passionate developer focused on building scalable backend systems, networking tools, and high-performance applications.
 
